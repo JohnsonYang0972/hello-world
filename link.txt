@@ -1,0 +1,1 @@
+https://zh.wikibooks.org/zh-tw/Ruby_Programming/Syntax/Literals
